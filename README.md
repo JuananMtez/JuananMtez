@@ -1,9 +1,4 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/JuananMtez/juananmtez.github.io/main/img/profile.png?token=GHSAT0AAAAAACFANJMRT32TW5IDN2WPEW4UZIA2KDQ" />
-   <h3 align="center">¡Hey there, I am Juan Antonio Martínez López </h3>
-</p>
-
-
+### ¡Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Juan Antonio Martínez López 
 - 👀 I’m interested in working as Back-end developer
 - 🌱 I’m currently working with React.js and Python for web development
 - 📫 How to reach me https://www.linkedin.com/in/juanantonio-martinez/
