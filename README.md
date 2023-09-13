@@ -1,4 +1,4 @@
-### ¡Hey there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Juan Antonio Martínez López 
+### 👋 ¡Hey there, I'm Juan Antonio Martínez López 
 - 👀 I’m interested in working as Back-end developer
 - 🌱 I’m currently working with React.js and Python for web development
 - 📫 How to reach me https://www.linkedin.com/in/juanantonio-martinez/
@@ -15,10 +15,10 @@
 
 ### ✨ About Me
 
-Since a few years, thanks to the multiple works i did, I decided to dedicate my future life in software engineering, especially in backend develop. Nowadays, I am MSc. Student in New Technologies at the University of Murcia, specialized in software. Also, I am working for a university research group where I am developing a software web related to cybersecurity and malware detection in IoT devices throught Machine Learning, using the most promising software technologies, as well as, participating in a European project. Despite the time needed for that, I usually use my free time in order to learn about clean software architectures, algorithms and data structures. I am a curious guy who love the work he does.
+Since a few years, thanks to the multiple works i did, I decided to dedicate my future life in software engineering, especially in backend develop. Nowadays, I am MSc. Student in New Technologies at the University of Murcia, specialized in software. Also, I am working for a university research group where I am developing a software web related to cybersecurity and malware detection in IoT devices throught Machine Learning, using the most promising software technologies, as well as, participating in a European project.
 
+Despite the time needed for that, I usually use my free time in order to learn about clean software architectures, algorithms and data structures. I am a curious guy who love the work he does.
 
-![stats](https://github-readme-stats.vercel.app/api?username=JuananMtez&hide_title=true&show_icons=true&theme=radical)
 
 ### 🛠️ Programming languages / Tools
 <p align="left"> 
@@ -48,5 +48,10 @@ Since a few years, thanks to the multiple works i did, I decided to dedicate my 
 </p>
 
 ### 📈 Stats
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuananMtez&hide_progress=false&show_icons=true&theme=radical)
+<p align="left">
+   
+   
+   ![stats](https://github-readme-stats.vercel.app/api?username=JuananMtez&hide_title=true&show_icons=true&theme=radical)
+   ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuananMtez&hide_progress=false&show_icons=true&theme=radical)
+</p>
 
