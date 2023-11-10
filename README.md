@@ -15,9 +15,9 @@
 
 ### ✨ About Me
 
-Since a few years, thanks to the multiple works i did, I decided to dedicate my future life in software engineering, especially in backend develop. Nowadays, I am MSc. Student in New Technologies at the University of Murcia, specialized in software. Also, I am working for a university research group where I am developing a software web related to cybersecurity and malware detection in IoT devices throught Machine Learning, using the most promising software technologies, as well as, participating in a European project.
+Welcome, I am Juan Antonio Martínez López. In the last few years, I discovered thanks to my Bachelor's and Master's degree at the University of Murcia and multiple software projects that I participated in that I want to to dedicate my future worklife to Software Engineering, especially to Backend Development. I am a passionate about Software Engineering, which is why I even use my spare time to learn more about Clean Software Architectures, Algorithms, and Data Structures.
 
-Despite the time needed for that, I usually use my free time in order to learn about clean software architectures, algorithms and data structures. I am a curious guy who love the work he does.
+Currently, I am a Master's student (MSc.) in New Technologies at the University of Murcia, with a specialization in Software. Furthermore, I am working for a university research group that has its focus on connecting Europe better, where I am developing a Software Web related to Cybersecurity and Malware Detection in IoT devices through Machine Learning.
 
 
 ### 🛠️ Programming languages / Tools
