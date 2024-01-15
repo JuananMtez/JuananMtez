@@ -1,6 +1,6 @@
 ### 👋 ¡Hey there, I'm Juan Antonio Martínez López 
 - 👀 I’m interested in working as Back-end developer
-- 🌱 I’m currently working with React.js and Python for web development
+- 🌱 I’m currently working at Orbyn
 - 📫 How to reach me https://www.linkedin.com/in/juanantonio-martinez/
 - 👨‍💻 Read more about me at https://juananmtez.github.io/
 
