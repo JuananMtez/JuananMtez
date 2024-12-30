@@ -2,11 +2,11 @@
 - 👀 I’m interested in working as Back-end developer
 - 🌱 I’m currently working at Orbyn
 - 📫 How to reach me https://www.linkedin.com/in/juanantonio-martinez/
-- 👨‍💻 Read more about me at https://juananmtez.github.io/
+- 👨‍💻 Read more about me at https://juananmtez.dev/
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://juananmtez.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/294206/web-webpage.svg" alt="juananmtez" height="30" width="40" /></a>
+<a href="https://juananmtez.dev/" target="blank"><img align="center" src="https://www.svgrepo.com/show/294206/web-webpage.svg" alt="juananmtez" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/juanantonio-martinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19906802/juan-antonio-martinez-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
    <a href="mailto:martinezlopezjuanantonio@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
